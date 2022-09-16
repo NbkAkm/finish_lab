@@ -1,0 +1,67 @@
+.input-wrapper {
+    display: flex;
+    justify-content: center;
+
+
+}
+
+
+.button {
+    display: flex;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    width: 180px;
+    height: 60px;
+    padding: 35px;
+    border-radius: 8px;
+    cursor: pointer;
+    background-color: rgb(14, 10, 240);
+    font-size: 20px;
+    color: #fff;
+    text-align: center;
+    align-items: center;
+}
+
+input {
+    text-align: center;
+}
+
+.button:hover {
+    opacity: 0.5;
+}
+
+.wrapper-upper {
+    border-radius: 1px solid rgb(243, 239, 239);
+    text-align: center;
+}
+
+.wrapper {
+    border: 1px solid rgb(219, 212, 212);
+    border-radius: 10px;
+
+}
+
+.question-text {
+    text-align: center;
+    color: rgb(12, 12, 12);
+}
+
+.answer-text {
+    text-align: center;
+    align-items: center;
+    color: rgb(245, 11, 11);
+}
+
+.answer-text b {
+    text-align: center;
+    color: rgb(10, 10, 10);
+}
+
+.wrapper-upper span {
+    color: rgb(12, 201, 235);
+    font-size: 17px;
+    font-weight: 600;
+    text-align: center;
+}

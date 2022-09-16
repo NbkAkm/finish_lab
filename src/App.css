@@ -1,0 +1,9 @@
+body {
+    background-image: url(./image/dota2.jpg);
+    object-fit: cover;
+}
+
+.test {
+    margin-left: 550px;
+    color: blue;
+}
